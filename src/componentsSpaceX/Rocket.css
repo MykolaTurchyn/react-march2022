@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+    border: 1px solid blue;
+    flex-direction: column;
+}
